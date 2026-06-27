@@ -1,0 +1,19 @@
+project:
+
+  name: Customer Churn
+
+  random_state: 42
+
+paths:
+
+  raw_data: data/raw/
+
+  processed_data: data/processed/
+
+  model: models/
+
+  artifacts: artifacts/
+
+training:
+
+  test_size: 0.2

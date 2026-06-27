@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+jupyter
+pyyaml
+python-dotenv
+loguru
+tqdm
+pytest
+
