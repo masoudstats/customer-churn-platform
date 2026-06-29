@@ -240,4 +240,6 @@ logs/
 
 .env
 
+notebooks/ 
+
 .vscode/
